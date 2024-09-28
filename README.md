@@ -1,4 +1,4 @@
-# 2110203-COM-ENG-MATH-II + 2110233-COM-ENG-MATH-LAB
+# 2110203-COM-ENG-MATH-II
 
 ```bash
 python -m venv .venv
